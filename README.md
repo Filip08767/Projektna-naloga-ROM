@@ -1,4 +1,4 @@
-# Analiza borznega tečaja IEKG za leto 2017
+# Analiza borznega tečaja IEKG za leto 2018
 
 ## Povzetek
 V tem projektu bomo analizirali zgodovinski borzni tečaj podjetja IEKG za leto 2018, pridobljen z Ljubljanske borze. Cilji projekta so:
