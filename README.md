@@ -9,3 +9,7 @@ V tem projektu bomo analizirali zgodovinski borzni tečaj podjetja IEKG za leto 
 - Simulirati naključno kupovanje in prodajanje delnic ter izračunati dobiček ali izgubo za naključnega vlagatelja.
 
 Projekt združuje uporabo podatkovnih analiz, vizualizacije in finančnih simulacij, da pridemo do praktičnih rezultatov.
+
+
+##VIDEO POSNETEK
+https://youtube.com/shorts/EiTNPP3H3dg
