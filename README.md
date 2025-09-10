@@ -12,4 +12,5 @@ Projekt združuje uporabo podatkovnih analiz, vizualizacije in finančnih simula
 
 
 ## VIDEO POSNETEK
-https://youtube.com/shorts/EiTNPP3H3dg
+https://youtube.com/shorts/EiTNPP3H3dg (prvi videoposnetek ki je bil narejen se pred rokom oddaje)
+https://www.youtube.com/watch?v=XdVkCe3ytZc (boljsi in daljsi video, ki pa je oddan po roku)
