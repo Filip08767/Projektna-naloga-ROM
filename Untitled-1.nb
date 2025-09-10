@@ -561,11 +561,9 @@ Cell[19499, 513, 201, 3, 32, "Output",ExpressionUUID->"6bbaffc6-a21e-4346-af5e-a
 ]
 *)
 
-##videoposnetek
-https://youtube.com/shorts/EiTNPP3H3dg
-
 
 
 (* End of internal cache information *)
+
 
 
